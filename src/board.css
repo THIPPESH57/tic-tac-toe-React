@@ -1,0 +1,50 @@
+/* Board.css */
+.game-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .game-title {
+    font-size: 36px;
+    color: #333;
+  }
+  body {
+    background-color: #f0f0f0; /* Set a background color */
+    background-image: url('https://images.pexels.com/photos/316466/pexels-photo-316466.jpeg?auto=compress&cs=tinysrgb&w=600'); /* Add the background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .game-status {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #666;
+  }
+  
+  .board {
+    margin-top: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .board-row {
+    display: flex;
+  }
+  
+  .square {
+    font-size: 24px;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    background-color: #fff;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .square:hover {
+    background-color: #f0f0f0;
+  }
+  
