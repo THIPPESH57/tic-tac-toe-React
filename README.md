@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Tic-Toc-Toe Using React
+
+<img width="948" alt="image" src="https://github.com/THIPPESH57/tic-tac-toe-React/assets/118977559/5b8c751f-0b8d-47b9-9038-e5641aecb06e">
+
+you can play this game [Here](https://thippesh57.github.io/tic-tac-toe-React/)
+
+# required packages
+
+## react
+ ### npx create-react-app tic-tac-toe
+ 
+## react-bootstrap
+  ### npm install react-bootstrap bootstrap
+
+## react-confetti
+### npm install react-confetti
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
